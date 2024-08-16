@@ -12,8 +12,8 @@
 
 ## Demo
 
-[![](https://i.imgur.com/2DkhSnF.jpg)](https://fuel-efficiency-prediction557.herokuapp.com/)
-[![](https://i.imgur.com/Gh06Sbf.jpg)](https://fuel-efficiency-prediction557.herokuapp.com/)
+[![](https://i.imgur.com/2DkhSnF.jpg)]()
+[![](https://i.imgur.com/Gh06Sbf.jpg)]()
 
 
 ## Overview
