@@ -1,4 +1,4 @@
-# Ware house appreal Detection using yolov5 
+# Ware house apparel Detection using yolov5 
 
 ## Table of Content
   * [Demo](#demo)
